@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineer Internship/Position
 - 🌱 I’m currently learning Database Systems Design & Analysis of Algorithms, Blockchain Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 Email: apervmm@gmail.com
+- 📫 Email: apervm@gmail.com
 - 
 
 <!---
