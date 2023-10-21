@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apervmm
 - 👀 I’m interested in Software Engineer Internship/Position
-- 🌱 I’m currently learning Database Systems Design & Analysis of Algorithms, Blockchain Development
+- 🌱 I’m currently learning Fast API Pyhton framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: apervm@gmail.com
 - 
